@@ -2,8 +2,11 @@
 character_model_model_data.bin for Infinite Wealth but its all arminator
 
 example:
+
   "293": {
+  
     "": {
+    
       "*model": 9897,
       "category": 63,
       "class_id": 148,
