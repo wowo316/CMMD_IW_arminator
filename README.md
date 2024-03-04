@@ -53,3 +53,31 @@ example:
       "skin_texture": 1
     }
   },
+
+## Required for use
+
+Like A Dragon Infinite Wealth
+
+## Installation
+
+### A. Install through Mod Manager
+
+1. Download prerequisites
+  - Shin Ryu Mod Manager
+
+2. Run SRMM in the same directory with the LAD8.exe file.
+
+3. Create a directory in the created `mods` folder with `...\LAD8\mods\"mod name"\db.elvis.en\` and place the .json file there.
+
+4. Run RyuModManager.exe
+
+### B. Install manually
+
+1. Download prerequisites
+  - ParTool
+
+2. Unpack db.elvis.en with ParTool.
+
+3. Replace the character_model_model_data.json in the db.elvis.en.unpack
+
+4. Repack the db.elvis.en.unpack folder.
