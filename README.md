@@ -63,7 +63,7 @@ Like A Dragon Infinite Wealth
 ### A. Install through Mod Manager
 
 1. Download prerequisites
-  - Shin Ryu Mod Manager
+Shin Ryu Mod Manager
 
 2. Run SRMM in the same directory with the LAD8.exe file.
 
@@ -74,10 +74,10 @@ Like A Dragon Infinite Wealth
 ### B. Install manually
 
 1. Download prerequisites
-  - ParTool
+ParTool
 
 2. Unpack db.elvis.en with ParTool.
 
-3. Replace the character_model_model_data.json in the db.elvis.en.unpack
+3. Replace the character_model_model_data.json in the db.elvis.en.unpack folder.
 
 4. Repack the db.elvis.en.unpack folder.
